@@ -1,4 +1,4 @@
-### Swarm Adaptive Network
+# Swarm Adaptive Network
 
 **Motivați alegerea bibliotecilor folosite în cadrul proiectului**
 
@@ -29,4 +29,3 @@ Scheletul implementează un cod universal care se află pe fiecare placă, plăc
 
 Am realizat optimizări în ceea ce privește consumul de energie, am folosit ESP-NOW pentru a comunica între plăci, fără a avea nevoie de un router WiFi, astfel consumul de energie este mult mai mic.
 Am încercat ca nodurile finale să intre în sleep mode cât mai des posibil, pentru a economisi cât mai multă energie.
-# Swarm-Adaptive-Network
